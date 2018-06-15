@@ -4,6 +4,11 @@ A react-native app that uses the citibike api to show real time bike status data
 
 >NB: run ```npm install`` prior to ```npm start```
 
+## npm Packages used 
+* react-navigation - for tab bar navigation and stack base navigation 
+* react-native-elements (SearchBar) 
+* react-native-vector-icons: for the tab bar icons
+
 ## Completed Screenshots
 
 By far the most attractive part of react-native is being cross-platform. Evident below with screenshots of our citi-bike-app running on both iOS and Android with an identical codebase of Javacript and react-native.
