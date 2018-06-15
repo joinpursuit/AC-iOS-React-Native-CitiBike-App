@@ -5,9 +5,9 @@ A react-native app that uses the citibike api to show real time bike status data
 >NB: run ```npm install`` prior to ```npm start```
 
 ## npm packages used 
-* react-navigation - for tab bar navigation and stack base navigation 
-* react-native-elements (SearchBar) 
-* react-native-vector-icons: for the tab bar icons
+* **react-navigation** - for tab bar navigation and stack base navigation 
+* **react-native-elements** - (SearchBar) 
+* **react-native-vector-icons** - for the tab bar icons
 
 ## Completed Screenshots
 
