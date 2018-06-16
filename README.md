@@ -2,7 +2,7 @@
 
 A react-native app that uses the citibike api to show real time bike status data at stations. 
 
->NB: run ```npm install`` prior to ```npm start```
+>NB: run ```npm install``` prior to ```npm start```
 
 ## npm packages used 
 * **react-navigation** - for tab bar navigation and stack base navigation 
